@@ -49,26 +49,6 @@ This portfolio structure is suitable for:
 ✔ Service-based businesses
 ✔ Digital studios & personal brands
 
-⚙️ Running Locally
-Clone repository
-git clone https://github.com/utkarshh07/metryx-portfolio.git
-cd metryx-portfolio
-
-Install dependencies
-npm install
-
-Start development server
-npm run dev
-
-
-Visit:
-
-http://localhost:5173
-
-🏗 Production Build
-npm run build
-npm run preview
-
 🎯 Project Goals
 
 This project was developed to:
