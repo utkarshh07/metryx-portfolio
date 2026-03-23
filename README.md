@@ -1,85 +1,73 @@
-🌐 Metryx — Web Development Portfolio
+# Welcome to your Lovable project
 
-Metryx is a modern web development portfolio crafted to represent professional digital solutions for businesses seeking a strong online presence.
+## Project info
 
-Designed and developed by Utkarsh Shukla, this website showcases development expertise, UI/UX excellence, and scalable web solutions tailored for modern brands.
+**URL**: https://lovable.dev/projects/9069e898-2299-4a29-9b7b-c291904d705a
 
-🧭 About Metryx
+## How can I edit this code?
 
-Metryx represents a commitment to building fast, elegant, and conversion-focused websites that help businesses grow online.
+There are several ways of editing your application.
 
-This portfolio demonstrates:
+**Use Lovable**
 
-✔ Professional design standards
-✔ Clean and scalable code architecture
-✔ Performance-optimized development
-✔ User-centric interface design
+Simply visit the [Lovable Project](https://lovable.dev/projects/9069e898-2299-4a29-9b7b-c291904d705a) and start prompting.
 
-✨ Key Highlights
+Changes made via Lovable will be committed automatically to this repo.
 
-✔ Premium modern UI/UX design
-✔ Fully responsive across all devices
-✔ Business-focused layout & branding
-✔ Services & project showcase sections
-✔ Contact & client inquiry integration
-✔ Optimized performance & fast loading
-✔ Built for scalability & future expansion
+**Use your preferred IDE**
 
-🛠 Technology Stack
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-Built using modern industry-standard technologies:
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-React — dynamic UI development
+Follow these steps:
 
-TypeScript — scalable & maintainable code
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
-Vite — lightning-fast build tool
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-Tailwind CSS — modern responsive styling
+# Step 3: Install the necessary dependencies.
+npm i
 
-shadcn/ui — accessible & elegant components
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
 
-💼 Ideal For
+**Edit a file directly in GitHub**
 
-This portfolio structure is suitable for:
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
 
-✔ Web development agencies
-✔ Freelancers & consultants
-✔ Startup product websites
-✔ Service-based businesses
-✔ Digital studios & personal brands
+**Use GitHub Codespaces**
 
-🎯 Project Goals
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-This project was developed to:
+## What technologies are used for this project?
 
-✔ Establish a professional digital presence
-✔ Showcase web design & development capabilities
-✔ Attract potential clients & collaborations
-✔ Demonstrate modern frontend architecture
+This project is built with:
 
-🚀 Future Enhancements
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
 
-Client testimonials & case studies
+## How can I deploy this project?
 
-Blog & SEO content integration
+Simply open [Lovable](https://lovable.dev/projects/9069e898-2299-4a29-9b7b-c291904d705a) and click on Share -> Publish.
 
-CMS/Admin content management
+## Can I connect a custom domain to my Lovable project?
 
-Performance & accessibility optimization
+Yes, you can!
 
-Multi-language support
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-👨‍💻 Developed By
-
-Utkarsh Shukla
-Full Stack Web Developer 
-
-Delivering modern, scalable, and business-focused web solutions.
-
-📞 Let’s Work Together
-
-If you are looking for a modern website that elevates your brand and converts visitors into customers, feel free to connect.
-You can check our portfolio here  https://metryx-technologies-portfolio.vercel.app/
-
-⭐ Don’t forget to star the project on GitHub if you find it valuable.
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
